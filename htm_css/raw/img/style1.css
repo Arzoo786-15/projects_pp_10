@@ -1,0 +1,29 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+margin:0;
+}
+li{
+    list-style: none;
+
+}
+a{
+    text-decoration: none;
+}
+header{justify-content: space-between;
+    display: flex;
+    align-items: center;
+    margin:0 3rem;
+}
+.discription{
+    display: flex;
+}
+ul{
+    display: flex;
+}
+h1{
+    font: weight 400px;
+}
+.showcase>img{
+height: 90vh;
+
+}
